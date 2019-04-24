@@ -1,5 +1,6 @@
 # Tom Haverford API
 ![Tom Haverford smiling at the camera](images/tom.gif?raw=true)
+
 An API to generate random Tom Haverford quotes.
 
 ## Getting Started
