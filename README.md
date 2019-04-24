@@ -3,7 +3,7 @@
 An API to generate random Tom Haverford quotes.
 
 ## Getting Started
-Simply call the API with orangepuffstudios.com/tom_haverford/api/quote/
+Simply call the API with https://tom-haverford-quotes.herokuapp.com/api/quote/
 
 This generates a random Tom quote!
 
